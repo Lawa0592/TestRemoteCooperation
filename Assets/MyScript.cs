@@ -19,10 +19,6 @@ public class MyScript : MonoBehaviour
     void MyFunction()
     {
         // ************************************
-        // *THis is the first time edit script*
-        // ************************************
-        
-        // ************************************
         // *THis is the second time edit script*
         // ************************************
         Debug.Log("Second Time Edit");
